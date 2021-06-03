@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="96" started-at="2021-05-28T19:51:06 IST" finished-at="2021-05-28T19:51:06 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="96" started-at="2021-05-28T19:51:06 IST" finished-at="2021-05-28T19:51:06 IST">
+      <class name="Test.MavenJava.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:Test.MavenJava.AppiumTest@536aaa8d]" name="IOSApps" duration-ms="10" started-at="2021-05-28T19:51:06 IST" finished-at="2021-05-28T19:51:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="nativeAppAndroid()[pri:0, instance:Test.MavenJava.AppiumTest@536aaa8d]" name="nativeAppAndroid" duration-ms="0" started-at="2021-05-28T19:51:06 IST" finished-at="2021-05-28T19:51:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAppAndroid -->
+      </class> <!-- Test.MavenJava.AppiumTest -->
+      <class name="Test.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:Test.MavenJava.SeleniumTest@34cd072c]" name="BrowserAutomation" duration-ms="0" started-at="2021-05-28T19:51:06 IST" finished-at="2021-05-28T19:51:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementUi()[pri:0, instance:Test.MavenJava.SeleniumTest@34cd072c]" name="elementUi" duration-ms="1" started-at="2021-05-28T19:51:06 IST" finished-at="2021-05-28T19:51:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUi -->
+      </class> <!-- Test.MavenJava.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
